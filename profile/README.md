@@ -12,7 +12,7 @@ Meltor is dedicated to creating software solutions that simplify the lives of de
 
 Event Driven Toolkit is a Visual Studio Code extension designed to support event contracts and testing. With this toolkit, developers can streamline the development of event-driven applications by simplifying event contract management and providing efficient testing capabilities.
 
-Repository: [Event Driven Toolkit](https://github.com/meltor/event-driven-toolkit)
+Repository: [Event Driven Toolkit](https://github.com/Meltress/event-driven-toolkit)
 Description: A Visual Studio Code extension for managing event contracts and facilitating testing in event-driven applications.
 
 ## Contributing
